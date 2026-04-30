@@ -192,6 +192,8 @@
 
  MIT_becomes_new_chairman: "§Y[ROOT.GetNameWithFlag]§! wird der neue §YPräsident der Mitteleuropäischen Kommission§!"
 
+ MIT_agenda_not_chosen_yet: "§RWir haben noch keine Agenda festgelegt!§!"
+
 ### Dynamische Modifikatoren ###
  MIT_mitteleuropa_modifier: "Mitglied von Mitteleuropa"
  MIT_mitteleuropa_modifier_desc: "Mitteleuropa, offiziell als Mitteleuropäische Wirtschaftsunion bezeichnet, ist eine Zoll- und Wirtschaftsunion, die Deutschland und seinen Einflussbereich vereint und nach dem Weltkrieg gegründet wurde. Die Mitgliedsstaaten von Mitteleuropa sehen die Auswirkungen dieses Abkommens gemischt - während die wirtschaftlichen Verbindungen mit Deutschland von Vorteil sind, ist das Abkommen stark zu Gunsten Deutschlands gewichtet."

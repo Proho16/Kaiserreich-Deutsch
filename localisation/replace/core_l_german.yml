@@ -13,7 +13,7 @@
  OLD_SAVEGAME: "§RDieser Spielstand stammt aus einer anderen Version des Spiels und kann nicht geladen werden.§!\n$rollback_tt$"
  OLD_SAVEGAME_POPUP: "Dieser Spielstand stammt aus einer anderen Version des Spiels und kann nicht geladen werden.\n$rollback_tt$"
  OLD_SAVEGAME_ALLOWED: "§RDieser Spielstand stammt aus einer anderen Version des Spiels und kann beim Laden zu unvorhersehbaren Problemen führen.§!\n$rollback_tt$"
- rollback_tt: "Frühere Versionen von Kaiserreich sind verfügbar unter\n§4github.com/Kaiserreich/Kaiserreich-4-Archive/tags§!"
+ rollback_tt: "Frühere Versionen von Kaiserreich sind verfügbar unter\n§4github.com/Kaiserreich/Kaiserreich-HOI4/tags§!"
 
 #changed links
  MENU_BAR_GAME_WIKI: "£GFX_flame_texticon  Problem melden"

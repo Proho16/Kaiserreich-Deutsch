@@ -27,12 +27,12 @@
  MAF_SWA_ADJ: "Südwestafrikanisch"
  MAF_SWA_DEF: "Südwestafrika"
 
- MAF_germany_in_exile: "Freies Deutschland"
- MAF_germany_in_exile_ADJ: "Frei Deutsch"
- MAF_germany_in_exile_DEF: "Freies Deutschland"
+ MAF_free_germany: "Freies Deutschland"
+ MAF_free_germany_ADJ: "Frei Deutsch"
+ MAF_free_germany_DEF: "Freies Deutschland"
 
- MAF_germany_in_exile_paternal_autocrat: "Provisorische Regierung von Deutschland"
- MAF_germany_in_exile_paternal_autocrat_DEF: "die Provisorische Regierung von Deutschland"
+ MAF_free_germany_paternal_autocrat: "Provisorische Regierung von Deutschland"
+ MAF_free_germany_paternal_autocrat_DEF: "die Provisorische Regierung von Deutschland"
 
 ### Colonies, Protectorates, Mandates ###
  mittelafrika_territory_title: "[THIS.MittelafrikaGetStateTerritoryTitle]"
