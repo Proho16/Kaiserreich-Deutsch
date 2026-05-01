@@ -1,4 +1,4 @@
-version="1.6.2.5"
+version="1.6.3.1"
 tags={
 	"Translation"
 }
@@ -6,6 +6,6 @@ dependencies={
 	"Kaiserreich"
 }
 name="KaiserReich Deutsch"
-supported_version="1.17.*"
+supported_version="1.18.*"
 path="C:/Users/Profe/Documents/Paradox Interactive/Hearts of Iron IV/mod/KaiserreichDeutsch"
 remote_file_id="2319740642"
