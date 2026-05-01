@@ -1,4 +1,4 @@
-version="1.6.2.5"
+version="1.6.3.1"
 tags={
 	"Translation"
 }
@@ -6,5 +6,5 @@ dependencies={
 	"Kaiserreich"
 }
 name="KaiserReich Deutsch"
-supported_version="1.17.*"
+supported_version="1.18.*"
 remote_file_id="2319740642"
