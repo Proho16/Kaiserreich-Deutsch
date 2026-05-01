@@ -260,6 +260,8 @@
  lba_senussi_backed_resistance: "Senussi-Widerstand: $VALUE|=-%0$"
  lba_increased_resistance: "Verstärkter Widerstand in diesem Staat"
 
+ LBA_tripolitania_pacification_efforts: "Bemühungen zur Befriedung Tripolitaniens: $VALUE|=-%0$"
+
 ### Dynamic Modifiers ###
  pervasive_senussi_influence: "Allgegenwärtiger Senussi-Einfluss"
  senussi_volunteers_dynamic_modifier: "Senussi-Freiwillige"
