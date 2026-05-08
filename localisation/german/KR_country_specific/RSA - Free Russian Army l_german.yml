@@ -323,8 +323,8 @@
  RSA_semyonov_ally_tt: "Alle von [FER.GetName] kontrollierten Gebiete werden nach Kriegsende an [ROOT.GetName] angegliedert."
 
  russia_free_army_events.19.t: "From Siberia with Scorn"
- russia_free_army_events.19.d: "Aus Sibirien mit Verachtung
-Die Antwort aus [FER.Capital.GetCapitalVictoryPointName] war eindeutig: Sie erkennen uns nicht als Vertreter des wahren Russlands an und werden nicht mit deutschen Kollaborateuren und Handlangern verhandeln. In einem langatmigen Kommuniqué des 'Premierministers' von [FER.GetNameDef], [FER.GetSecondInCommand], fordert er stattdessen, dass Boldyrev General [FER.GetLeader] als obersten Herrscher des 'Freien Russlands' anerkennt, der vom sibirischen Volk und nicht von den Deutschen gewählt wurde."
+ russia_free_army_events.19.d: "Aus Sibirien mit Verachtung"
+ russia_free_army_events.19.d: "Die Antwort aus [FER.Capital.GetCapitalVictoryPointName] war eindeutig: Sie erkennen uns nicht als Vertreter des wahren Russlands an und werden nicht mit deutschen Kollaborateuren und Handlangern verhandeln. In einem langatmigen Kommuniqué des 'Premierministers' von [FER.GetNameDef], [FER.GetSecondInCommand], fordert er stattdessen, dass Boldyrev General [FER.GetLeader] als obersten Herrscher des 'Freien Russlands' anerkennt, der vom sibirischen Volk und nicht von den Deutschen gewählt wurde."
  russia_free_army_events.19.a: "Die Verhandlungen waren kurz."
  russia_free_army_events.19.b: "Dann werden wir es mit Gewalt nehmen."
 
