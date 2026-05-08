@@ -1,0 +1,352 @@
+﻿l_german:
+###  Übersetzt von Proho  ### bis Zeile 209
+ ### Material der Freien Russischen Armee ###
+ RSA_focus: "Schwerpunktbaum der Freien Russen"
+
+### Tags ###
+ RSA: "Russland
+ RSA_ADJ: "Russisch"
+ RSA_DEF: "Russland"
+
+ RSA_totalist: "Russische Sozialistische Republik"
+ RSA_totalist_DEF: "die Russische Sozialistische Föderative Republik"
+ RSA_syndicalist: "Russische Sozialistische Republik"
+ RSA_syndicalist_DEF: "die Russische Sozialistische Föderative Republik"
+ RSA_radical_socialist: "Russische Sozialistische Republik"
+ RSA_radical_socialist_DEF: "die Russische Sozialistische Föderative Republik"
+ RSA_social_democrat: "Russische Republik"
+ RSA_social_democrat_DEF: "die Russische Demokratische Föderative Republik"
+ RSA_social_liberal: "Russische Republik"
+ RSA_social_liberal_DEF: "die Russische Demokratische Föderative Republik"
+ RSA_market_liberal: "Russische Republik"
+ RSA_market_liberal_DEF: "die Russische Demokratische Föderative Republik"
+ RSA_social_conservative: "Russische Republik"
+ RSA_social_conservative_DEF: "die Russische Demokratische Föderative Republik"
+ RSA_authoritarian_democrat: "Russische Republik"
+ RSA_authoritarian_democrat_DEF: "die Russische Demokratische Föderative Republik"
+ RSA_paternal_autocrat: "Russische Republik"
+ RSA_paternal_autocrat_DEF: "die Russische Demokratische Föderative Republik"
+ RSA_national_populist: "Russische Republik"
+ RSA_national_populist_DEF: "die Russische Demokratische Föderative Republik"
+
+ RSA_freerus_authoritarian_democrat: "Freies Russland"
+ RSA_freerus_authoritarian_democrat_ADJ: "Freies Russisch"
+ RSA_freerus_authoritarian_democrat_DEF: "Freies Russland"
+
+### Ländernamen ###
+ RSA_army_authoritarian_democrat: "Freie Russische Armee"
+ RSA_army_authoritarian_democrat_ADJ: "Freies Russisch"
+ RSA_army_authoritarian_democrat_DEF: "the Freie Russische Armee"
+
+### Charaktere ###
+ # In Russia files
+
+### Traits ###
+ RUS_disgraced_general: "In Ungnade gefallener General"
+ RUS_marshal_of_old_republic: "Marschall der Alten Republik"
+ RUS_russian_caesar: "Russischer Cäsar"
+
+### Parteien ###
+ RSA_totalist_party: "KSR - Esers-Maximalisten"
+ RSA_totalist_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+ RSA_syndicalist_party: "KSR - Maksimoviten"
+ RSA_syndicalist_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+ RSA_radical_socialist_party: "KSR - Esers-Spiridonovisten"
+ RSA_radical_socialist_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+ RSA_social_democrat_party: "KSR - Sozialdemokraten"
+ RSA_social_democrat_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+ RSA_social_liberal_party: "KSR - Esers"
+ RSA_social_liberal_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+ RSA_market_liberal_party: "KSR - Kadetten"
+ RSA_market_liberal_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+ RSA_social_conservative_party: "KSR - Konservative"
+ RSA_social_conservative_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+ RSA_authoritarian_democrat_party: "KSR - Boldyreviten"
+ RSA_authoritarian_democrat_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+ RSA_paternal_autocrat_party: "OHL"
+ RSA_paternal_autocrat_party_long: "Deutscher Generalstab"
+ RSA_national_populist_party: "KSR - Nationalisten"
+ RSA_national_populist_party_long: "Komitet Svobodnoy Rossii (Komitee für ein freies Russland)"
+
+ RSA_empty_party: "-"
+ RSA_empty_party_long: "-"
+
+ RSA_general_purpose: "GUV"
+ RSA_general_armor: "RGTZ"
+
+### Ideen ###
+ RSA_legitimacy_weak: "Geringe Unterstützung in der Bevölkerung"
+ RSA_legitimacy_mid: "Wachsende Unterstützung in der Bevölkerung"
+ RSA_legitimacy_good: "Mäßige Unterstützung in der Bevölkerung"
+ RSA_army_without_state: "Eine Armee ohne Staat
+ RSA_free_russian_government: "Freie Armee mit Freiem Staat"
+
+ RSA_recruit_EE: "Osteuropa-Rekrutierungskampagne"
+ RSA_recruit_EE_desc: "Es gibt viele Russen, die vor dem derzeitigen russischen Regime in die Ukraine, nach Weißrussland oder in die baltischen Staaten geflohen sind. Sie sollten motiviert sein, sich unserer Sache anzuschließen!"
+ RSA_stavka: "Freie Russische Armee"
+ RSA_stavka_desc: "General Boldyrev hat unermüdlich daran gearbeitet, für seine Streitkräfte die Institutionen einer modernen Armee aufzubauen, angefangen mit einer Stavka der Freien Russischen Streitkräfte."
+
+ RSA_war_industry: "Improvisierte Kriegsindustrie"
+ RSA_german_debt: "Reichsbank-Schulden"
+
+ RSA_anti_authoritarian_fervor: "Antiautoritärer Eifer"
+ RSA_anti_socialist_fervor: "Antisozialistischer Eifer"
+
+ RSA_looming_collapse: "Drohender Zusammenbruch"
+
+ ### Ideen der Nachkriegszeit ###
+ RSA_rebuilding: "Zeit des Wiederaufbaus"
+ RUS_starting_anew: "Neuanfang"
+ RUS_destroyed_army: "Zerfall der Armee"
+ RUS_restoring_russian_army: "Wiederaufbau der Russischen Armee"
+ RUS_UKR_cooperation: "Wirtschaftsraum Don-Becken"
+ RUS_mitteleuropa_integration: "Integration in Mitteleuropa"
+ RUS_republic_in_armour: "Republik in Rüstung"
+ RUS_siberian_war: "Der Sibirienkrieg"
+
+ ###Decision Cats and Decisions###
+ # Mechanik des deutschen Einflusses #
+ RSA_german_influence: "Deutscher Einfluss"
+ RSA_german_influence_desc: "Eine bedauerliche Realität unseres gerechten Kampfes, das russische Volk erneut von der Tyrannei zu befreien, ist ein Pakt mit dem Teufel. Während wir durch unser eigenes Land marschieren, sind wir mit deutscher Ausrüstung bewaffnet, kämpfen an der Seite deutscher Soldaten, und sogar unser §aBefreiungsrat§! umfasst Vertreter des Heeres. Wenn wir uns als wertvoller Verbündeter erweisen, zumindest vorläufig, könnten sie es sich sogar leisten, uns dabei zu helfen, die Technologie und Ausbildung unserer Armee auf das Niveau deutscher Eliteeinheiten zu bringen – und nach dem Frieden können wir, indem wir in den Reihen des Heeres Blut vergießen, einen Platz an den Friedensverhandlungen erwarten.\n\nZwar ist die deutsche Unterstützung bei der Befreiung Russlands ein unbestreitbarer Vorteil, doch können wir uns unmöglich als Fackel der Demokratie bezeichnen, wenn wir nicht auf den Willen unseres eigenen Volkes hören. Wir müssen auch die Auswirkungen eines übermäßigen §Pdeutschen Einflusses§! bedenken: Zu viel Hilfe von den Deutschen, und unsere Landsleute könnten glauben, sie würden lediglich einen Stiefel aus Moskau gegen einen Stiefel aus Berlin eintauschen.\n\n§PDeutscher Einfluss§! hängt von unserer $paternal_autocrat_coloured$-Beliebtheit ab und liegt derzeit bei: [?RSA.party_popularity@paternal_autocrat|H%0]\n"
+ RSA_expand_corps: "Das Korps vergrößern"
+ RSA_lootbox: "Militäraufträge finden"
+ RSA_lootbox_desc: "Für die deutsche Rüstungsindustrie stehen wir ganz unten auf der Prioritätenliste, und in der Praxis hängt die Beschaffung hochwertiger Waffen davon ab, ob wir Glück haben. Vielleicht finden wir ja, wenn wir Glück haben, ein deutsches Unternehmen, das noch Bestände an Überbeständen aus dem Weltkrieg oder ähnlich veralteten Ausrüstungsgegenständen hat."
+ RSA_lootbox_1: "§PMauser WK1 Überschuss§!"
+ RSA_lootbox_2: "§NKrupp WK1 Überschuss§!"
+ RSA_lootbox_3: "§cGünstige Opel & Hanomag§!"
+ RSA_lootbox_4: "§gGebrauchte Lokomotiven§!"
+ RSA_lootbox_5: "§nLeicht beschädigte Rüstung§!"
+ RSA_prepare_offensive_operation: "Offensivoperation vorbereiten"
+ RSA_ruhr_contracts: "Ruhr-Verträge"
+
+ RSA_recruit_pows: "Kriegsgefangene rekrutieren"
+
+ RSA_saving_russia: "Rettung der Russischen Republik"
+ RSA_saving_russia_desc: "Warum sind wir hier? Nur um zu leiden? Jeden Tag wird russisches Blut im Dienste der Tyrannen und Lügner des Kremls vergossen. Man kann sich nur fragen, was ein Mensch gegen rücksichtslosen Hass ausrichten kann. Es ist zu viel Blut für die große Russische Republik und ihre Werte der Freiheit und Gleichheit vergossen worden, als dass wir jetzt aufgeben und bis zum bitteren Ende gehen könnten.\n\nSollte dies unser Ende sein, so möge man sich daran erinnern, dass die russische Demokratie nicht kampflos unterging, sondern unter lautem Protest starb. Die Neue Freiwilligenarmee wird, wie General Aleksejew es formulierte, 'eine Fackel entzünden, damit es wenigstens einen Lichtpunkt in der Dunkelheit gibt, die Russland umhüllt hat …'\n"
+ RSA_prepare_caucasus_uprising: "Vorbearbeitung des Kaukasus-Aufstands"
+ RSA_recruit_soldiers: "Wehrpflicht in [FROM.GetName]"
+ RSA_counter_claims: "Ansprüche [FROM.GetAdjective] stellen"
+ #RSA_negotiate: "Waffenstillstand aushandeln"
+ #RSA_negotiate_desc: "Es ist schon genug Blut vergossen worden."
+
+ RSA_claimed_ukrainian_states: "§Y[260.GetName]§!, §Y[220.GetName]§! und der §YNordkaukasus§! werden am Ende des Krieges in russischer Hand bleiben."
+ RSA_claimed_belarusian_state: "§Y[242.GetName]§! wird am Ende des Krieges in russischer Hand bleiben."
+ RSA_claimed_finnish_states: ""§Y[216.GetName]§! wird nach Kriegsende in russischer Hand bleiben."
+
+ RSA_postwar: "Russlands früheren Ruhm wiederherstellen"
+ RSA_postwar_desc: "Die russische Demokratie hat überlebt, zwar angeschlagen und zerschlagen, aber wir sind noch da. Der Preis war furchtbar, sowohl an Menschenleben als auch an verlorenem Land. Während der deutsche Adler über die Welt schwebt, müssen wir uns mit dieser neuen Welt arrangieren – doch wir müssen sie nicht bedingungslos akzeptieren. Russland ist nach wie vor eine Großmacht und verdient seinen eigenen Platz, selbst in einer von Deutschland dominierten Welt."
+ RSA_talks_with: "Gespräche mit [FROM.GetNameDef]"
+ RSA_talks_with_desc: "Um unsere Position auf der Weltbühne zurückzugewinnen, brauchen wir Verbündete. Da Europa von Deutschland und seinen Vasallenstaaten dominiert wird, müssen wir unseren Blick weiter nach Übersee richten, auf [FROM.GetNameDef] und deren Block."
+ RSA_freedom_tt: "Wir könnten versuchen, uns aus dem deutschen Einflussbereich zu lösen."
+ RSA_only_one_tt: "§RDu kannst nur eine Allianz auswählen, wenn mehrere zur Auswahl stehen.§!"
+
+ RSA_take_siberia: "Nimm Sibirien"
+ RSA_take_siberia_tt_1: "§CAngesichts unserer derzeitigen Lage im Krieg wird dieser damit enden, dass [FER.GetNameDef] §rganz Sibirien erobert§!. Kämpft weiter!§!"
+ RSA_take_siberia_tt_2: "§CAngesichts unserer derzeitigen Lage im Krieg wird dieser mit einem Frieden auf unseren Bedingungen enden. Sollten wir §YBlagoweschtschensk§!, §YChabarowsk§! und §YWladiwostok§! besetzen, werden wir mit Sicherheit §Gsiegreich sein§!.§!"
+ RSA_take_siberia_tt_3: "Da wir derzeit §YJablagoweschtschensk§!, §YChabarowsk§! und §YWladiwostok§! besetzt halten, werden wir mit Sicherheit §Gsiegreich sein§!!"
+
+### Schwerpunkte ###
+ RSA_civil_war: "Der Zweite Russische Bürgerkrieg"
+ RSA_civil_war_desc: "Die Zeit des Exils in Berlin ist vorbei! Die Tyrannen in Moskau, die Russland viel zu lange geplagt und Osteuropa in den Krieg gestürzt haben, bieten nun endlich die Gelegenheit, den Krieg zur Wiederherstellung der Demokratie zu beginnen. Auch wenn manche die Abhängigkeit von unseren deutschen Verbündeten verachten mögen, sind unsere Bemühungen ohne deren Unterstützung vergeblich, und ohne uns läuft Deutschland Gefahr, einem besiegten Russland einen noch schlechteren Frieden aufzuzwingen." #WIP
+
+ RSA_liberated_territories: "Regierung der Befreiten Gebiete"
+ RSA_liberated_territories_desc: "Zu lange schon haben die Menschen in Russland Boldyrev als Verräter und Kollaborateur der Deutschen angesehen, doch mit der Befreiung von Teilen des Landes ist nun die Zeit gekommen, eine echte Gegenregierung zu Moskau auszurufen. Eine Botschaft, die im ganzen Land gehört werden muss: Die RSA kämpft für ein Russland, das frei von Tyrannei und Extremismus ist."
+ RSA_boldyrevites: "Die Boldyreviten"
+ RSA_boldyrevites_desc: "Manche mögen meinen, es sei am besten, mit den politischen Kräften im besetzten Russland zusammenzuarbeiten, die sich nach wie vor die Rückkehr der Demokratie in Russland wünschen, doch wo waren diese Gruppen im Jahr 1929, als Boldyrev versuchte, die Republik zu retten? Die Demokratie wird nach Russland zurückkehren, doch dies kann nicht geschehen, bevor der Krieg beendet ist, und bis dahin muss sich das Volk hinter Boldyrev und jene stellen, die ihm selbst im Exil treu geblieben sind."
+ RSA_popular_front: "Die Volksfront"
+ RSA_popular_front_desc: "Der Staatsstreich von 1929 gegen die Regierung war ein Versuch, die russische Demokratie vor den Gefahren des wachsenden Extremismus zu bewahren, den die SZRS darstellte. Nun, da radikale Kräfte einen Großteil des Landes kontrollieren und die RSA als letzte Bastion der russischen Demokratie gilt, werden die politischen Kräfte des Landes, die jahrelang unterdrückt wurden, dazu eingeladen, sich dem Kampf für die Freiheit anzuschließen."
+ RSA_fight_for_russia: "Kampf um Russland"
+ RSA_fight_for_russia_desc: "Dieser Krieg wird nicht um territoriale Zugeständnisse oder wirtschaftlichen Einfluss geführt; dieser Krieg ist ein Kampf um die Seele des Vaterlandes. Ein Kampf, um Russland vor den schlimmsten Seiten seiner selbst zu bewahren. Russland kann noch verhindern, dass die Errungenschaften von 1917 und 1922 zunichte gemacht werden, solange das Volk bereit ist, dafür zu kämpfen."
+ RSA_foundations: "Die Grundlagen schaffen"
+ RSA_foundations_desc: "Kein Krieg kann ewig dauern, und irgendwann wird der Zeitpunkt kommen, an dem die Streitkräfte von [RUS.GetName] besiegt sind. Sobald dieser Zeitpunkt gekommen ist, besteht kein Grund mehr, länger als nötig zu kämpfen, und es können Gespräche aufgenommen werden, um die Kämpfe zu beenden. Es müssen Vorbereitungen getroffen werden, um die Kämpfe rasch zu beenden, aber auch für das, was danach zu tun sein wird."
+ RSA_punish_traitors: "Die Verräter bestrafen"
+ RSA_punish_traitors_desc: "Selbst jetzt, da die Menschen im Mutterland weiterhin Boldyrevs Aufrufe zur Befreiung hören, wird die Propaganda der [RUS.GetRulingParty] verbreitet, in der Boldyrev als Verräter Russlands bezeichnet wird, obwohl doch gerade sie es sind, die das russische Volk verraten haben. Diejenigen, die Russland verraten haben, indem sie alles zunichte machten, wofür während des Ersten Bürgerkriegs gekämpft wurde, und den Willen des Volkes unter ihren Stiefeln zermalmten. Diejenigen, die dieses System aufrechterhalten haben oder weiterhin versuchen, unter dessen Banner zu kämpfen, müssen streng bestraft werden."
+
+ RSA_denounce_state_terror: "Staatlichen Terror anprangern"
+ RSA_denounce_state_terror_desc: "Wer durch Angst regiert, tut dies nur, weil er beim Volk weder Loyalität noch Liebe weckt. Savinkows Besessenheit von Terrorismus und Gewalt kann nur dazu führen, dass Russland zu einer ausgehöhlten Hülle einer Nation wird. Diese Politik wird auf entschiedene Weise abgelehnt werden. Es darf niemals wieder einen Savinkow geben."
+ RSA_enemies_of_vozhd: "Die Feinde unseres Feindes"
+ RSA_enemies_of_vozhd_desc: "Es kann schwierig sein, in einem Krieg Verbündete zu finden; glücklicherweise haben die zahlreichen Säuberungsaktionen der Svobodniks dazu geführt, dass es viele Gruppen von Menschen gibt, die zwar untereinander nichts für einander übrig haben, aber mehr als genug Gründe besitzen, Savinkov zu verachten. Erst die internen Machtkämpfe nach Tschernows Tod ermöglichten es der SZRS, die vollständige Kontrolle über das Land zu übernehmen. Jeder Versuch, sie zu stürzen, muss die Einheit der Bewegung gegen sie gewährleisten."
+ RSA_VRBO: "Vereint den Widerstand"
+ RSA_VRBO_desc: "Die russische rote Untergrundbewegung, die der Allrussischen Kampforganisation untersteht, kämpft schon seit Savinkovs Machtübernahme gegen ihn. Wir haben, offen gesagt, wenig mit vielen dieser fanatischeren Sozialisten gemeinsam, aber wir können dennoch sicherstellen, dass sie nach Kriegsende keinen großen Einfluss auf die Republik ausüben können. Vorerst müssen wir uns mit ihnen verbünden – alles, um die Savinkov-Tyrannei zu stürzen."
+ RSA_last_volunteer_army: "Die Letzte Freiwilligenarmee"
+ RSA_last_volunteer_army_desc: "Wir können nur zurückkehren, wenn Gottes Gnade da ist. Aber wir müssen eine Fackel entzünden, damit es wenigstens einen Lichtpunkt in der Dunkelheit gibt, die Russland umhüllt hat..."
+ RSA_resistance_of_faithful: "Der Widerstand der Gläubigen"
+ RSA_resistance_of_faithful_desc: "Die Verachtung und der Hass, den die Sozialisten der Kirche entgegenbringen, sind für jeden offensichtlich, der ihre Äußerungen dazu hört. Der Kontakt zu kirchlichen Gemeinschaften hat es ermöglicht, den Widerstand weiter zu stärken und die Unterstützung für andere antisozialistische Gruppen im ganzen Land zu vertiefen. Die Roten konnten die Kirche im Ersten Bürgerkrieg nicht zerstören; sie werden es auch in diesem nicht schaffen."
+ RSA_new_white_movement: "Ein weiterer Weiße Bewegung"
+ RSA_new_white_movement_desc: "Es war die Weiße Armee, die die Bolschewiki einst besiegte, und nun schließt sich die weiße Bewegung unter General Boldyrev gegen den zweiten Roten Terror zusammen. Die Geschichte wird uns Recht geben: Wir waren einst siegreich, wir werden wieder siegreich sein. Alle Waffen gegen diejenigen, die unsere russische Flagge entweihen wollen!"
+ RSA_contact_semyonov: "Semyonov kontaktieren"
+ RSA_contact_semyonov_desc: "Grigory Semyonov ist vieles – vor allem ein Bandit –, aber entscheidend ist, dass er gegen die Truppen von [RUS.GetLeader] kämpft. Wir müssen dafür sorgen, dass er nach Kriegsende sein Herrschaftsgebiet friedlich übergibt, damit es kein weiteres Blutvergießen gibt."
+
+ RSA_recruitment_issue: "Das Rekrutierungsproblem"
+ RSA_recruitment_issue_desc: "Tatsache ist, dass die Rekrutierung neuer Soldaten unter den gegenwärtigen Umständen bestenfalls schwierig ist. Wenn die Freie Armee nicht ausbluten soll, sind erhebliche Anstrengungen erforderlich, um die in Osteuropa außerhalb Russlands lebenden Russen anzusprechen und den gefangenen Soldaten klarzumachen, dass der Kampf für unsere Sache der einzige Weg ist, Russland zu retten."
+ RSA_rekindle_volunteerism: "Freiwilligendienst wiederbeleben"
+ RSA_rekindle_volunteerism_desc: "Als der erste Aufruf zum Kampf erging, damit sich die Nation gegen die [RUS.GetRulingParty] erhebt, meldeten sich viele eifrig freiwillig zum Dienst. Die Wiederbelebung dieses Geistes wird entscheidend sein, um die Freie Armee zu einer Streitmacht zu machen, die in der Lage ist, Russland zu befreien und dies der Nation zu beweisen."
+ RSA_underground_cells: "Das Untergrundorchester"
+ RSA_underground_cells_desc: "Wir können den Traum von einem freien Russland nicht verwirklichen, wenn wir uns lediglich an die deutschen und alliierten Streitkräfte anschließen. Nein, die Freie Russische Armee muss größer sein. Wir werden alles in unserer Macht Stehende tun, um weit entfernt von den Frontlinien passiven oder aktiven Widerstand gegen den Krieg zu leisten und die Versorgung sowie die Kommunikation zu stören."
+ RSA_conscription_desc: "Das wird die Befreiungsbewegung beim Volk nicht beliebt machen, aber eine Armee, die ausschließlich aus Freiwilligen besteht, wird den Mitteln, zu denen die Tyrannen greifen, um zu siegen, nicht gewachsen sein. Es werden Räte zur Mobilisierung der Bewohner der befreiten Gebiete eingerichtet, um sicherzustellen, dass das Befreite nicht wieder in die Hände der Extremisten fällt."
+ RSA_radio_free_russia: "Radio 'Freiheit'"
+ RSA_radio_free_russia_desc: "Ein zentrales Problem bei der Verbreitung der Botschaft von der Befreiung Russlands ist der Kampf gegen die Propaganda, die die wahren Schrecken der Tyrannen verschleiert und Boldyrevs Anliegen als das eines eigennützigen Speichelleckers darstellt. Die Gründung eines speziellen Radiosenders, der darauf abzielt, die Botschaft der Befreiung von der extremistischen Diktatur tief ins Innere Russlands zu tragen, und warum Boldyrev und alle rechtschaffenen Russen sich entschlossen haben, dagegen zu kämpfen."
+
+ RSA_war_planning_commisariat: "Das Kommissariat der Streitkräfte"
+ RSA_war_planning_commisariat_desc: "Die derzeitige Organisation der Armee, die zwar während des Exils in Berlin und in den ersten Kriegstagen funktionierte, ist angesichts der seither erfolgten Vergrößerung nicht mehr angemessen. Es soll ein Kommissariat der Streitkräfte eingerichtet werden, um die ordnungsgemäße Verwaltung der Armee und der wenigen verfügbaren Luftstreitkräfte sicherzustellen."
+
+ RSA_impose_discipline: "Disziplin durchsetzen"
+ RSA_impose_discipline_desc: "Opportunisten stellen für unsere Bewegung vielleicht eine größere Bedrohung dar als die Kreml-Truppen selbst – viele einfache Russen sehen keinen Sinn darin, sich den freien Kräften anzuschließen, wenn sie uns lediglich als eine Bande von Kollaborateuren und Banditen wahrnehmen. Wenn wir das ändern wollen, müssen in der gesamten Armee strenge Hierarchien und Disziplin durchgesetzt werden."
+ RSA_assault_units: "Schock-Einheiten organisieren"
+ RSA_assault_units_desc: "Russland ist ein riesiges Land, doch um die Kontrolle darüber zu erlangen, werden wahrscheinlich kostspielige Kämpfe um die großen Städte und das Durchbrechen von Verteidigungsstellungen erforderlich sein. Natürlich hat Boldyrev eine Lösung für solche Probleme: spezialisierte Einheiten für Stadtangriffe und das Stürmen befestigter Stellungen. Keine noch so große Anzahl von Bunkern wird die Befreiung Russlands aufhalten!"
+ RSA_free_cossacks: "Freies Kosakenkorps"
+ RSA_free_cossacks_desc: "Die Kosaken sind seit jeher ein Volk, das der russischen Regierung gegenüber Missmut hegt und kriegerisch gesinnt ist. Die Extremisten, die einen Großteil des Landes kontrollieren, haben diese Spannungen nur noch weiter angeheizt. Ein Bündnis mit den Kosakenheeren könnte dringend benötigte zusätzliche Soldaten liefern und potenzielle Überläufer ermutigen." #WIP
+ RSA_landsberg_school: "Militärschule Landsberg"
+ RSA_landsberg_school_desc: "Da unsere Armee nun von neuen Offizieren geführt wird, benötigen wir neue Einrichtungen, um sie auszubilden. Wir werden in Preußen eine russische Militärschule gründen, die speziell diesem Zweck dient und die die besten Aspekte der deutschen und der russischen militärischen Ausbildung vereint."
+ RSA_partisan_central_organisation: "Partisanenzentralkommando"
+ RSA_partisan_central_organisation_desc: "Es erfordert erheblichen Aufwand, einen unzufriedenen Mann zu einem Partisanen zu machen, der tief im feindlichen Gebiet operieren kann. Die Organisation der zahlreichen Partisanennetzwerke unter einem übergeordneten Netzwerk ermöglicht einen optimierten Prozess zur Bildung von Partisanentruppen und zur Abstimmung dieser Partisanen mit den Ereignissen an der Front."
+ RSA_german_doctrine: "Integrierte Manöverkriegsführung"
+ RSA_german_doctrine_desc: "Während der Zeit im Exil in Deutschland und auch jetzt, da die deutsche Armee für die Wiederherstellung der russischen Demokratie kämpft, sind bestimmte Konzepte der deutschen Armee, wonach Panzerverbände feindliche Stellungen durchbrechen und den Gegner manövrieren sollen, in den Fokus gerückt, um eine taktische Überlegenheit gegenüber dem Feind zu sichern."
+ RSA_free_russian_spirit: "Freier Russischer Geist"
+ RSA_free_russian_spirit_desc: "Die Armee des freien Russlands besteht aus jenen, die bereit waren, mutig gegen den Extremismus Stellung zu beziehen, der Russland korrumpiert hat – eine Armee, die sich unter keinen Umständen brechen lässt. Solange dieser Geist fortbesteht, lebt der Traum von der Befreiung des Vaterlandes weiter."
+ RSA_armour_corps: "Erstes Gardekorps"
+ RSA_armour_corps_desc: "Angesichts der begrenzten industriellen Kapazitäten und der sich verbreitenden Konzepte der Manöverkriegsführung ist die Schaffung eines Panzerkorps kein Wunschtraum mehr, sondern eine reale Möglichkeit. Vorerst wird dieses Korps den vom Feind erbeuteten Panzern eine Bestimmung geben, bis die eigene Panzerproduktion anlaufen kann."
+
+ RSA_logistics: "Zentrale Logistikabteilung"
+ RSA_logistics_desc: "Ein gut funktionierendes Logistikmanagement ist für jede Armee unverzichtbar. Die Verwaltung zur Gewährleistung einer ordnungsgemäßen Logistik wird zentralisiert, um eine angemessene Verteilung der vorhandenen Ressourcen und die Beschaffung neuer Ausrüstung sicherzustellen. Die gesamte Ausrüstung der Welt nützt nichts, wenn nur eine Division darüber verfügt."
+ RSA_emergency_workshops: "Improvisierte Industrie"
+ RSA_emergency_workshops_desc: "Da keine vollwertige industrielle Infrastruktur zur Verfügung steht, wird aus gekauften und erbeuteten Werkzeugmaschinen ein System von Werkstätten aufgebaut. Diese Werkstätten, die direkt hinter unseren Linien liegen, sind zwar nicht für eine groß angelegte Produktion ausgelegt, doch dank ihres provisorischen Charakters können sie bei guter Organisation kurzfristig von den Straßen abgezogen werden."
+ RSA_field_recovery_companies: "Mobile Reparaturdienste"
+ RSA_field_recovery_companies_desc: "Oftmals müssen erbeutete Ausrüstungsgegenstände repariert werden, und es dauert eine Weile, bis sie ordnungsgemäß eingesetzt werden können; durch die Bildung spezieller Teams, die diese Ausrüstung so schnell wie möglich reparieren, kann jedoch mehr Ausrüstung genutzt werden. Ein Teil dieser reparierten Ausrüstung lässt sich möglicherweise nicht vollständig instand setzen, aber man muss nehmen, was man kriegen kann."
+ RSA_directorate_of_production: "Die Hauptdirektion für Rüstung"
+ RSA_directorate_of_production_desc: "Die Rüstungsproduktion muss sorgfältig gesteuert werden, um sicherzustellen, dass die Soldaten der Armee über alles verfügen, was sie zum Kämpfen benötigen. Die Befreiung von Teilen Russlands bedeutet, dass nun eine Direktion eingerichtet werden kann, deren alleiniger Zweck darin besteht, die Rüstungsproduktion zu steuern."
+
+ RSA_expand_german_aid: "Deutsche Hilfe ausweiten"
+ RSA_expand_german_aid_desc: "Der Traum von der heldenhaften Rückeroberung des Vaterlandes lässt sich mit den derzeit begrenzten industriellen Kapazitäten nicht verwirklichen. Unsere deutschen Verbündeten verfügen über reichlich Ressourcen, die zur Stärkung unserer Streitkräfte genutzt werden könnten, wenn man sie davon überzeugen könnte." #WIP
+ RSA_german_credit: "Deutscher Kredit"
+ RSA_german_credit_desc: "So unangenehm das auch sein mag, der Bedarf an Ausrüstung überwiegt. Es wird ein Angebot zum Kauf weiterer Ausrüstung vorgelegt werden, das die Bewegung in eine Verschuldung gegenüber Deutschland stürzen wird, deren vollständige Tilgung Jahre dauern wird. Diese Schulden werden Deutschland erheblichen Einfluss verschaffen, um Forderungen an Boldyrev zu stellen, doch der Preis könnte es wert sein."
+ RSA_aviation_contracts: "Luftfahrtverträge"
+ RSA_aviation_contracts_desc: "So wichtig dies auch sein mag, die Produktion einer nennenswerten Anzahl von Flugzeugen kommt schlichtweg nicht in Frage. Glücklicherweise besteht die Möglichkeit, uns an unsere Verbündeten zu wenden, die Flugzeuge herstellen, die wir erwerben können. Es mag Einwände geben, dass dies die Befreiungsbewegung noch stärker unter ausländischen Einfluss bringt, doch muss alles in Betracht gezogen werden, um die Armee kampfbereit zu halten."
+
+ RSA_declare_free_russia: "Ein Freies Russland ausrufen"
+ RSA_declare_free_russia_desc: "Mit jedem Tag wird ein weiterer Teil Russlands befreit, während die Soldaten und die Bevölkerung des Landes den Ruf nach Freiheit vernehmen. Die Freie Russische Armee kann nicht länger lediglich als eine Regierung mit einer Armee bezeichnet werden, die nur kleine Teile des Landes kontrolliert. Boldyrevs Russland ist Russland – ein freies Russland, befreit von der Knute der Tyrannen, seien es Zaren, Rote oder Svobodniks."
+
+ ### Intro Screen ####
+ RSA_country_intro_background: "$RUS_country_intro_background$"
+ RSA_country_intro_header: "$RUS_country_intro_header$"
+ RSA_country_intro_content: "$RUS_country_intro_content$"
+ RSA_country_intro_header_1: "$RUS_country_intro_header_1$"
+ RSA_country_intro_content_1: "$RUS_country_intro_content_1$"
+ RSA_country_intro_header_2: "$RUS_country_intro_header_2$"
+ RSA_country_intro_content_2: "$RUS_country_intro_content_2$"
+ RSA_country_intro_header_3: "$RUS_country_intro_header_3$"
+ RSA_country_intro_content_3: "$RUS_country_intro_content_3$"
+
+ RSA_guide: "§MBoldyrev§! ($social_liberal_coloured$ / $social_democrat_coloured$)\n£white_dot Kämpft den Zweiten Weltkrieg gegen das §nSavinkovistische Russland§! und sorgt dafür, dass Boldyrev die Wahl gewinnt.\n\n§MBoldyrev§! ($market_liberal_coloured$ / $social_conservative_coloured$)\n£white_dot Kämpft den Zweiten Weltkrieg gegen das §SSozialistische Russland§! und sorgt dafür, dass Boldyrev die Wahl gewinnt.\n\nEine Niederlage bei den Wahlen nach dem Krieg führt zu einer Abwandlung der üblichen Inhalte über das Demokratische Russland, ohne dass neue Inhalte hinzukommen."
+
+ ### Events ###
+ russia_free_army_events.1.t: "Die Konferenz von Danzig"
+ russia_free_army_events.1.d.szrs: "Der Krieg hat die verstreute russische Emigrantengemeinschaft ins Chaos gestürzt. Zwar sind viele wegen der Verfolgung durch die SZRS aus Russland geflohen, doch ist es nicht selbstverständlich, dass sie sich eine Niederlage Russlands wünschen. Erschwerend kommt hinzu, dass viele russische Sozialisten den Krieg unterstützen – nicht aus Sympathie für Sawinkow, sondern weil sie auf den Sieg der Internationale hoffen.\n\nDoch es gibt Menschen, die mit dem Svobodnik-Regime keine Kompromisse eingehen können. Kopien von Wladimir Rikhters trotziger Rede in der letzten freien Sitzung der Duma im Jahr 1936 sind weit verbreitet, und ihr Schlusswort – 'Freies Russland, ewig und unzerstörbar!' – ist zu einem Schlachtruf geworden, zu einem Keim des Widerstands. Es ist nicht bekannt, ob Rikhter selbst tot ist oder sich in einem Lager in Sibirien befindet, aber das Mindeste, was alle Russen tun können, die die Freiheit ihrer Kinder schätzen, ist, sich dem Tyrannen Savinkov und seinem Krieg zu widersetzen.\n\nUnd so kam es zur Danziger Konferenz, einem Treffen russischer Dissidenten in Deutschland. Der berühmte Dichter Ossip Mandelstam, der nach der Verschärfung der antisemitischen Politik aus Russland geflohen war, bezeichnete den Widerstand als moralische Pflicht für jeden Menschen, dem noch ein Funken Menschlichkeit geblieben war. Pawel Miljukow war anwesend, ebenso wie der Kadetten-Anwalt Alexander Kulischer, der Hilfe für aus Russland fliehende Juden organisiert hatte. Es kursierten erschreckende Berichte über ein Netz von Gefangenenlagern von Murmansk bis Kamtschatka.\n\nDie wichtigste Initiative ging jedoch von dem alten General Wassili Georgiwitsch Boldyrev aus. Nachdem er durch seinen Putschversuch im Jahr 1929, mit dem er den wachsenden Einfluss Savinkows eindämmen wollte, in Verruf geraten war, wurde er zum faktischen Anführer des Widerstands gegen die Svobodniks mit umfangreichen Verbindungen zu Widerstandsgruppen in Russland. Boldyrev schlug die Gründung des Komitees für ein freies Russland vor, 'aus jenen, die sich ein freies Russland für ihre Kinder wünschen', und strebte eine uneingeschränkte Zusammenarbeit mit der deutschen Armee an, wobei aus denjenigen, die mit ihm kämpfen wollten, ein 'Freies Russisches Korps' gebildet werden sollte. Dies war relativ umstritten, und es wurden Vorwürfe der Kollaboration laut, doch letztendlich setzte sich Boldyrev durch: Wenn Savinkov gewinnt, verlieren sie. Wenn Deutschland gewinnt, können sie zumindest auf diese Weise die Zukunft Russlands selbst bestimmen."
+ russia_free_army_events.1.d.soc: "Der Krieg hat die verstreute russische Emigrantengemeinschaft ins Chaos gestürzt. Zwar sind viele aus Russland geflohen, nachdem sie ihren Besitz verloren hatten oder von der WGS wegen ihres Widerstands gegen die Revolution verfolgt worden waren, doch ist es nicht selbstverständlich, dass sie lieber sehen würden, dass Russland den Krieg verliert. Viele alte Weiße wiederholen seit langem antikommunistische Litaneien, ohne dass dies viel bewirkt hätte, und andere hoffen immer noch, dass sich das Regime irgendwann mäßigen wird – schließlich ist es nicht Lenin.\n\nDoch es gibt Menschen, die mit dem sozialistischen Regime keine Kompromisse eingehen können. Kopien von Wladimir Rikhters trotziger Rede in der letzten freien Sitzung der Duma im Jahr 1936 sind weit verbreitet, und ihr Schlusswort – 'Freies Russland, ewig und unzerstörbar!' – ist zu einem Schlachtruf der russischen Demokraten geworden, die von der Tragödie erschüttert sind, dass der Sturz Sawinkows lediglich dazu geführt hat, an seiner Stelle ein weiteres autoritäres Regime zu errichten.\n\nUnd so kam es zur Danziger Konferenz, einem Treffen russischer Dissidenten in Deutschland. Der berühmte Schriftsteller Roman Gul, der aufgrund der Zensur aus Russland geflohen war, eröffnete die Konferenz mit einem Aufruf an alle gebildeten Menschen, sich der 'revolutionären Tyrannei' zu widersetzen. Pavel Miljukow trat auf, ebenso wie Professor Sergej Tschachotin, dessen Einschätzung des russischen sozialistischen Regimes düster ausfiel: Angesichts der aktuellen Entwicklungen werde es wahrscheinlich noch repressiver werden, da der Staat Krieg gegen die Kirche und das Land führe. Was die Vertreter des rechten Spektrums betraf, so war der Auftritt des Solidaristen Michail Georgijewski bemerkenswert, der über die Verfolgung der Kirche in Russland sprach und darüber, wie selbst friedliche Oppositionelle wie die Solidaristen in den Untergrund getrieben werden.\n\nDie wichtigste Initiative ging jedoch von dem alten General Wassili Georgijewitsch Boldyrev aus. Er war der faktische Anführer des Widerstands gegen die Swobodniks gewesen, verfügte über umfangreiche Verbindungen zu Widerstandsgruppen in Russland und hatte das sozialistische Regime anfangs positiv bewertet. Doch inzwischen hatte er den Glauben an diesen 'zweiten Versuch' verloren und schlug stattdessen die Gründung des Komitees für ein freies Russland vor, 'aus jenen, die für ihre Kinder ein freies Russland sehen wollen', und strebte eine uneingeschränkte Zusammenarbeit mit der deutschen Armee an, wobei aus denjenigen, die mit ihm kämpfen wollten, ein 'Freies Russisches Korps' gebildet werden sollte. Dies war relativ umstritten, und es wurden Vorwürfe der Kollaboration laut, doch letztendlich setzte sich Boldyrev durch: Wenn die Sozialisten gewinnen, verlieren sie. Wenn Deutschland gewinnt, können sie zumindest auf diese Weise die Zukunft Russlands selbst bestimmen."
+ russia_free_army_events.1.a: "Ein freies Russland, ewig und unzerstörbar!"
+ russia_free_army_events.1.b: "Intrigante Verräter, nichts weiter."
+ russia_free_army_events.1.c: "Ihr Anliegen ist gerecht und verdient unsere Unterstützung!"
+ russia_free_army_events.1.e: "Mitarbeiter können sehr nützlich sein."
+ russia_free_army_events.1.f: "Genau wie die Freiwilligenarmee ziehen sie gegen die Entartung in den Kampf."
+
+ russia_free_army_events.2.t: "Russen im Heer"
+ russia_free_army_events.2.d: "Die Freie Russische Armee von Generalleutnant Wassili Boldyrev gilt in den Augen des deutschen Oberkommandos als Kampftruppe von zweifelhafter Qualität. Die aus Russen aus Osteuropa und Deutschland rekrutierten Soldaten zeichnen sich eher durch ihren Eifer als durch Zusammenhalt oder Kampfkraft aus. Boldyrev und einige Mitglieder seines Umfelds sind fähige Offiziere, die nun als Teil der übergeordneten deutschen Kommandostruktur Heer-Ränge tragen, doch der tatsächliche Kampfwert dieser Truppen ist unbewiesen. Kavalleriegeneral Ernst-August Köstring wurde als Boldyrevs Vorgesetzter und Betreuer eingesetzt, und es ist Köstrings Verdienst, dass diese Armee überhaupt erst existiert. Köstring selbst diente Ende der 1920er Jahre als Attaché in Russland, verfügt über fundierte Kenntnisse der russischen Militärangelegenheiten und scheint ein gutes Arbeitsverhältnis zu General Boldyrev zu haben.\n\nTrotz aller idealistischen Töne in den offiziellen Erklärungen der Freien Russischen Armee sieht die OHL in ihr lediglich eine zusätzliche Quelle für Arbeitskräfte, die es zu erschließen gilt, mit möglichem zusätzlichem Propagandapotenzial, falls es ihr tatsächlich gelingt, die Russen zu überzeugen. Aus Sicht des Auswärtigen Amtes ist der Plan ehrgeiziger: Boldyrevs Armee kann als Kernstück beim Wiederaufbau Russlands in der Nachkriegsordnung dienen, indem Männer, die sich im Kampf für deutsche und europäische Werte bewährt haben, in einflussreiche Positionen gebracht werden. Realisten bezweifeln diesen Plan zwar, aber andererseits kostet es wenig, diese Streitkräfte mit älteren Überschüssen zu bewaffnen, und im schlimmsten Fall gewinnt das Heer ein paar mittelmäßige Divisionen hinzu."
+ russia_free_army_events.2.a: "Mal sehen, wie es läuft."
+
+ russia_free_army_events.3.t: "Aufnahme der Freiwilligenvereinigung 'Aleksejewiter'"
+ russia_free_army_events.3.d: "Der Freiwilligenverband war ursprünglich eine patriotische Veteranenorganisation, die 1922 gegründet wurde, um den Geist des Freiwilligenmarsches am Leben zu erhalten. In der Praxis entwickelte sich der Verband zur größten Veteranenorganisation und zu einer mächtigen 'weißen' Lobby, die oft an vorderster Front gegen die Bedrohung durch den Kommunismus kämpfte. Die Union wurde als konterrevolutionäre Organisation verboten, doch ihr umfangreiches lokales Netzwerk hat sich unter der Führung des ehemaligen Generals Aleksandr Kutepov im Wesentlichen zu einer Widerstandsorganisation gewandelt."
+ russia_free_army_events.3.a: "Von nun an sind wir gleichberechtigte Verbündete."
+ russia_free_army_events.3.b: "Gib ihnen nicht zu viel Einfluss."
+
+ russia_free_army_events.4.t: "Integration von VRBO"
+ russia_free_army_events.4.d: "Die Allrussische Kampforganisation ist unser langjähriger Verbündeter, der sich größtenteils aus Revolutionären aus dem Nordkaukasus und Sibirien zusammensetzt. Der schlagkräftigste Teil dieser losen Widerstandsgruppe ist die maximalistische Fraktion um Michail Lewandowski, doch diese will nichts mit uns zu tun haben. Stattdessen ist es uns gelungen, Verbindungen zum gemäßigteren Flügel der Kampforganisation aufzubauen. Der sozialrevolutionäre Oberst Juri Sablin war bereits 1929 ein Anhänger Boldyrevs und wurde deswegen aus der Armee ausgeschlossen, hat sich jedoch von Boldyrevs deutsch orientierter Politik distanziert. Dennoch macht der Krieg seltsame Bettgenossen."
+ russia_free_army_events.4.a: "Lass ihnen nicht zu viel Einfluss."
+ russia_free_army_events.4.b: "Alle sind willkommen, auch Sozialisten."
+
+ russia_free_army_events.5.t: "Die erste befreite Stadt!"
+ russia_free_army_events.5.d: "Was als bloßer Traum begann, ist nun einen Schritt näher an die Realität gerückt, da die Flagge des Freien Russlands in der Provinzhauptstadt [RSA_new_capital.GetName] weht. Im Rahmen einer Vereinbarung mit der Deutschen Militärverwaltung für die Ostgebiete wurde [RSA_new_capital.GetName] der direkten Verwaltung durch die Freie Russische Armee unterstellt und zur de facto Hauptstadt unserer Bewegung erklärt."
+ russia_free_army_events.5.a: "Nächster Halt: Moskau!"
+
+ russia_free_army_events.7.t: "Der Terror"
+ russia_free_army_events.7.d.szrs: "Da die Kräfte der Freien Russischen Armee gemeinsam mit den Deutschen vorrücken, wurde ein Großteil der Befriedung des Landes in ihre Hände gelegt. Die neu gegründete Militärgendarmerie der RSA hat sich bereits einen berüchtigten Ruf erworben, doch die schlimmsten Gräueltaten werden in der Regel von lokalen Freiwilligeneinheiten begangen, die oft einen Groll gegen Einheimische hegten, die das Savinkow-Regime unterstützt hatten. Ein besonders schwerwiegender Fall ereignete sich unter Oberst Dmitri Buzin, dessen 11. Freiwilligen-Schützenregiment in einem Dorf 59 Kriegsgefangene erschoss. Buzins Einheit rekrutierte sich größtenteils aus dem lokalen Widerstand, und Buzin selbst war früher Bolschewik. Auch Gewalttaten gegen Zivilisten, denen 'Spionage' vorgeworfen wird, sind keine Seltenheit.\n\n$russia_free_army_events.7.d$"
+ russia_free_army_events.7.d.soc: "Da die Kräfte der Freien Russischen Armee gemeinsam mit den Deutschen vorrücken, wurde ein Großteil der Befriedung des Landes in ihre Hände gelegt. Die neu gegründete Militärgendarmerie der RSA hat sich bereits einen berüchtigten Ruf erworben, doch die schlimmsten Gräueltaten werden in der Regel von lokalen Freiwilligeneinheiten begangen, die oft einen Groll gegen Einheimische hegen, die das sozialistische Regime unterstützt hatten. Ein besonders schwerwiegender Fall ereignete sich unter Oberst Sergej Iwanow, dessen 14. Freiwilligen-Schützenregiment in einem Dorf 61 Kriegsgefangene erschoss – die Überreste einer kleinen Garnison, die sich gegen Iwanows Männer verteidigt hatte. Auch Gewalttaten gegen Zivilisten, denen 'Spionage' vorgeworfen wird, sind keine Seltenheit.\n\n$russia_free_army_events.7.d$"
+ russia_free_army_events.7.d: "Letztendlich läuft das Problem auf die Qualität unserer Soldaten und lokalen Kommandeure hinaus – wenn wir so gut wie jeden rekrutieren, werden wir sowohl das Schlechteste als auch das Beste von Russland bekommen. Mit strengeren Strafmaßnahmen und Rekrutierungsrichtlinien könnten wir diese Vorfälle reduzieren – allerdings auf Kosten der Personalstärke."
+ russia_free_army_events.7.a: "Wir sind eine Armee, keine bolschewistischen Banditen."
+ russia_free_army_events.7.b: "Weisen Sie sie zurecht, aber vermeiden Sie es, sie vor den Kopf zu stoßen."
+
+ russia_free_army_events.8.t: "Das Schicksal des Sozialistischen System"
+ russia_free_army_events.8.d: "In den Gebieten, die unsere Armee von den Roten befreit, erleben wir, wie das sozialistische System in der Praxis umgesetzt wird. Der größte Teil des Landes wird von Dorfsowjets verwaltet, die es nach Bedarf an die Bauern verteilen. Fabriken werden größtenteils von Fabriksowjets verwaltet. Eine umfassendere Koordination hätte durch übergeordnete Wirtschaftsgremien erfolgen sollen. Doch nun, abgeschnitten vom Rest des sozialistischen Russlands, ist dieses System stark belastet … doch überraschenderweise genießt es immer noch beträchtliche Unterstützung. Verschiedene Sowjets haben bei unserer Regierung beantragt, mehr oder weniger so weiterarbeiten zu dürfen, wie sie es bisher tun, als demokratisches Instrument der lokalen Selbstverwaltung.\n\nEigentlich könnte dies für uns von Vorteil sein: Wir könnten uns ganz darauf konzentrieren, die tatsächlichen radikalen Revolutionäre und andere Verräter auszusortieren, während die einfachen Bauern in ihrem Dorfsowjet als einer modernen Form der bäuerlichen Demokratie mitwirken dürfen. Andererseits gibt es viele, die sich wünschen, dass wir das Privateigentum angemessen schützen und es wieder in private Hände überführen, insbesondere in der Mittelschicht."
+ russia_free_army_events.8.a: "Behalte die Arbeiter, solange sie nützlich sind."
+ russia_free_army_events.8.b: "Geben Sie Eigentum an diejenigen zurück, denen es gehörte."
+
+ russia_free_army_events.9.t: "Gerüchte über den Frieden"
+ russia_free_army_events.9.d: "Es kam zu einem regelrechten Aufruhr, nachdem der Journalist Andrej Sedych ein Dokument an die russische Emigration in Deutschland weitergegeben hatte. In Sedykhs Enthüllungsbericht mit dem Titel 'Verkauf Russlands' behauptet er, dass die höchsten Ebenen der deutschen und ukrainischen Führung bereits die Nachkriegskarte Osteuropas entworfen hätten, die große Gebietsabtretungen Russlands von Rostow über Belgorod bis hin nach Smolensk beinhalten würde. Zunächst als bloße Verleumdung und von Moskau gelenkte Propaganda abgetan, hat eine weitere Untersuchung gezeigt, dass Sedykhs Dokumente echt sein könnten und aus dem deutschen Auswärtigen Amt gestohlen wurden.\n\nSofort geriet die gesamte Sache der Freien Russen in Gefahr. Wenn die Deutschen tatsächlich vorhatten, ein weiteres Brest-Litowsk zu erzwingen, war die Sache der russischen Demokratie das dann überhaupt wert? Die zivilen Politiker des Komitees für ein Freies Russland verlangten Antworten von General Boldyrev, wobei einige ihm sogar vorwarfen, Russland möglicherweise aus eigenem Gewinnstreben zu verraten. Boldyrev, der von diesen Verträgen keine Ahnung hatte, verlangte seinerseits Antworten von General Köstring, der über die deutschen Pläne bezüglich der Freien Russischen Armee Bescheid wissen sollte. Köstrings Vorgesetzte im OHL behaupteten, dies sei keine militärische Angelegenheit und sie hätten keine Kenntnis von den Entscheidungen des Auswärtigen Amtes."
+ russia_free_army_events.9.a: "Wir müssen der Sache auf den Grund gehen!"
+
+ russia_free_army_events.10.t: "Aufstand in den Bergen"
+ russia_free_army_events.10.d: "Der Nordkaukasus – was für ein Dorn im Auge Moskaus. Die dortigen Bergvölker führen wohl seit der allerersten russischen Invasion in Tscherkessien, Inguschetien und Tschetschenien einen mehr oder weniger aktiven Widerstandskampf, und die Berge haben ihren Bewohnern die Möglichkeit geboten, zu überleben und Widerstand zu leisten. Die Region war in den 1920er Jahren eine Brutstätte von Unruhen und blieb dies auch unter der neuen Herrschaft von [RUS.GetLeader].\n\nBoldyrevs Organisation hatte bereits Verbindungen aufgebaut, insbesondere zu tschetschenischen und tscherkessischen Gruppen, und was als Guerillakrieg begann, hat sich nun zu einem regelrechten Aufstand ausgeweitet. Mehrere Auls, die General Sultan Klych-Girey treu ergeben waren, erhoben sich als Hochburgen des Widerstands und rekrutierten rasch Kämpfer aus den Milizen der Region. Klych-Girey selbst ist ein ehemaliger General der Weißen mit tscherkessischem und krimtatarischem Hintergrund, der 1929 aus der russischen Armee entlassen wurde und sich seitdem für mehr Selbstverwaltung im Nordkaukasus einsetzt, sowohl für die Bergbewohner als auch für die Kosaken.\n\nNatürlich folgt ihm nicht jeder, aber der Kern der Widerstandsbewegung hat sich hinter ihm versammelt, koordiniert von deutschen Agenten."
+ russia_free_army_events.10.a: "Wie erwartet – und enttäuschend."
+ russia_free_army_events.10.b: "Unsere Feinde werden vor den Bergen zurückschrecken."
+
+ russia_free_army_events.11.t: "Deutsche Hilfe!"
+ russia_free_army_events.11.d: "Die deutsche Regierung hat uns weitere Hilfe geschickt, größtenteils in Form von erbeuteter militärischer Ausrüstung und einigen Finanzmitteln. Damit können wir noch ein wenig länger kämpfen."
+ russia_free_army_events.11.a: "Na gut."
+
+ russia_free_army_events.13.t: "Freier Russischer Widerstand"
+ russia_free_army_events.13.d: "Auch wenn der Krieg unsere Strafen für Widerstand noch drakonischer gemacht hat, ist es ihnen dennoch gelungen, ihre Präsenz zu verstärken. Dies ist vor allem den Operationen der deutschen Luftwaffe und der Freien Russischen Armee zu verdanken, die Nachschub und ausgebildete Spezialisten eingeschleust haben, um Widerstandszellen innerhalb Russlands zu leiten und auszubilden. Wir haben unsere Bemühungen, diese Verräter zu fassen, verdoppelt."
+ russia_free_army_events.13.a: "Für sie gibt es nur den Tod."
+
+ russia_free_army_events.14.t: "Zusammenstoß mit den Maximalisten"
+ russia_free_army_events.14.d: "Die Verhandlungen mit Michail Karlowitsch Lewandowskis Kampfunion der Sozialrevolutionäre (BSSR) erwiesen sich recht schnell als erfolglos. Boldyrev hat versucht, sich mit allen antisawinkowistischen Widerstandsgruppen in Russland zu verbünden, doch ein Großteil dieser Gruppen ist sozialistischer Prägung und wird oft von Sozialrevolutionären oder ehemaligen Bolschewiki angeführt. Die Eser-Kampfunion ist die größte unter ihnen, und ihre Führung liegt größtenteils in den Händen von SR-Maximalisten, die bereits seit den 1930er Jahren über langjährige Erfahrung mit Terrorismus verfügten. Dutzende kleinerer regionaler Gruppen arbeiten mit der BSSR und ihrem Anführer, General Michail Lewandowski, zusammen, und die Union genießt zudem die Anerkennung der im Exil lebenden Führung der Linken SR.\n\nDoch trotz unseres gemeinsamen Feindes gab Levandovsky nicht nach. Sein Vertreter, Andrej Kolegajew, lehnte eine Zusammenarbeit mit unserer „bürgerlichen Armee“ kategorisch ab und argumentierte, Savinkow sei nur vorübergehend an der Macht. Nach dem Triumph der Weltrevolution über Deutschland werde die Zeit für den Sturz des Woschds gekommen sein – und bis zu diesem Tag sollten sich die Russen, die an die Freiheit glauben, zurückhalten und einfach überleben, um die Flamme der Revolution am Leben zu erhalten. Und angesichts der Zusammenarbeit der 'Freien' Russischen Armee mit Feinden Russlands erklärten die Maximalisten, dass sie auch die Boldyrewisten als Feinde betrachten würden."
+ russia_free_army_events.14.a: "Also nichts Besonderes."
+
+ russia_free_army_events.15.t: "Radio Freiheit"
+ russia_free_army_events.15.d: "Mithilfe leistungsstarker deutscher Radiosender überschütten die Kollaborateure der Boldyreviten Russland mit ihren Propagandageschichten und Lügen. Das Hören dieser Radiosendungen ist natürlich verboten und führt dazu, dass jeder unter Verdacht des Landesverrats gerät, doch in der Praxis ist es schwierig, dieses Verbot durchzusetzen, insbesondere auf dem Land. Eine besonders einflussreiche Stimme bei Radio Freiheit ist die von Roman Borisovich Gul – einem ehemaligen Veteranen der Freiwilligenarmee und Liberalen, der das Land vor einiger Zeit verlassen hat, nachdem seine Zeitung wegen der Verbreitung von Lügen über [RUS.GetLeader] und der Verleumdung der Regierung von [RUS.GetHerHim] geschlossen wurde.\n\nNun nutzt Gul seinen Ruf als echter russischer Patriot, um die Kreml-Regierung als korrupte Tyrannen und Feinde des russischen Volkes zu bezeichnen. Zudem sendet der Radiosender Nachrichten von der Front – was eine Möglichkeit darstellt, unsere strenge Kriegszensur zu umgehen. In der Praxis schalten viele diesen Sender ein, um sich über die tatsächliche Lage an der Front zu informieren, und werden dabei gleichzeitig der Propaganda der Boldyreviten ausgesetzt."
+ russia_free_army_events.15.a: "Entgegnet ihnen mit Geschichten über ihren Verrat und ihre Grausamkeit."
+ russia_free_army_events.15.b: "Kein einziger russischer Terrorist wird verschont bleiben."
+
+ russia_free_army_events.16.t: "Boldyrev unter Beschuss"
+ russia_free_army_events.16.d: "General Boldyrev hat nach besten Kräften versucht, zwischen russischen und deutschen Interessen zu vermitteln, doch in letzter Zeit gerät er zunehmend unter Beschuss wegen des wachsenden Einflusses von General Köstring und anderen deutschen 'Strippenziehern', die sich in interne russische Angelegenheiten wie Personalentscheidungen einmischen. Dies bringt Boldyrev in eine heikle Lage, da Vorwürfe der Kollaboration mit Deutschland die Hauptargumente gegen die Bewegung Freies Russland sind."
+ russia_free_army_events.16.a: "Versteht Berlin denn nicht, dass es seinen Verbündeten untergräbt?!"
+ russia_free_army_events.16.a.tt: "Wir haben dieses Event erhalten, weil unsere $paternal_autocrat_coloured$-Beliebtheit über §Y40 %§ liegt!"
+
+ russia_free_army_events.17.t: "General Boldyrev nimmt Kontakt mit uns auf"
+ russia_free_army_events.17.d: "Heute erhielten wir überraschenden Besuch aus Europa, als Major Adolf Sigismundovich Chapsky sich mit Ataman Semyonov traf, der General Vasily Boldyrev und die Freie Russische Armee vertrat – berüchtigte deutsche Kollaborateure, die für die „Demokratie“ kämpfen. Chapsky selbst ist Diplomat und Spion und scheint eine wichtige Figur in Boldyrevs Geheimdienst, der RIAG, zu sein.\n\nChapsky ist mit einem Vorschlag von Boldyrev zu uns gekommen, der nur für unsere Ohren bestimmt ist. Sie behaupten, dass die Freie Russische Bewegung bestrebt sei, den deutschen Einfluss so schnell wie möglich zu beseitigen, sobald sie in Russland an der Macht sei – und dass eine Zusammenarbeit unsererseits der russischen Sache zugutekommen würde. Der Deal ist einfach – sie wollen unser Versprechen, dass sich unsere beiden Hälften Russlands nach Kriegsende und nachdem [RUS.GetLeader]s Reich des Chaos in Trümmern liegt, in Frieden und Brüderlichkeit vereinen. Semyonov wurde eine Position in der zukünftigen Regierung oder Armee versprochen, falls er dies wünscht. Chapsky kann nicht lange in Sibirien bleiben, wird aber unsere Botschaft übermitteln oder unseren eigenen Vertreter nach Berlin begleiten, falls wir dies wünschen."
+ russia_free_army_events.17.a: "Er ist nur ein deutscher Kollaborateur."
+ russia_free_army_events.17.b: "Ja, wir verfolgen ein gemeinsames Ziel."
+ FER_game_over_tt: "§RNach dem Krieg werden wir annektiert. SPIEL VORBEI.§!"
+
+ russia_free_army_events.18.t: "Semjonows Gegenangebot"
+ russia_free_army_events.18.d: "Semjonows Vertreter und so etwas wie Außenminister, Wassili Nikolajewitsch Strandman, traf nach einer langen und beschwerlichen Reise in Berlin ein, um die Verhandlungen persönlich zu führen – offenbar hat Semjonow unser Bündnisangebot ernst genommen. Strandman überbrachte uns ein Angebot von Semjonow: Er würde Boldyrevs Führung anerkennen, sobald dieser Moskau unter seine Kontrolle gebracht habe, und die von ihm kontrollierten Regionen würden sich bereitwillig der wiederhergestellten Russischen Republik anschließen.\n\nAllerdings gibt es einen Haken: Er fordert Autonomie für Sibirien und für sich selbst als Befehlshaber des Fernöstlichen Militärbezirks, einschließlich der Freiheit, seine eigenen Untergebenen zu ernennen, sowie die Garantie, dass sein Eigentum in Ostsibirien nicht beschlagnahmt wird. Darüber hinaus verlangt er den Rang eines Generalfeldmarschalls und die Anerkennung seiner Verdienste um die Befreiung Russlands als zweitwichtigste nach denen Boldyrevs.\n\nHinter verschlossenen Türen sprach Strandman auch die Frage einer möglichen Wiederherstellung der Monarchie durch Boldyrev an, da er glaubte, dies würde Russland 'Ordnung und ein gutes Leben zurückbringen' und den Respekt Deutschlands gewinnen. Dies wurde natürlich höflich abgetan, und auch die erste Reaktion auf Semjonows Forderungen bestand darin, ihn abzuweisen. Dennoch – seine Zusammenarbeit würde einen möglichen Krieg in Sibirien oder die Eroberung Wladiwostoks durch Japan verhindern, selbst wenn dies bedeutete, Semjonows Erpressung zu akzeptieren."
+ russia_free_army_events.18.a: "Völlig unverschämte Forderungen!"
+ russia_free_army_events.18.b: "Ich nehme an, Semjonow kann eine Belohnung erhalten."
+ RSA_semyonov_ally_tt: "Alle von [FER.GetName] kontrollierten Gebiete werden nach Kriegsende an [ROOT.GetName] angegliedert."
+
+ russia_free_army_events.19.t: "From Siberia with Scorn"
+ russia_free_army_events.19.d: "Aus Sibirien mit Verachtung"
+ russia_free_army_events.19.d: "Die Antwort aus [FER.Capital.GetCapitalVictoryPointName] war eindeutig: Sie erkennen uns nicht als Vertreter des wahren Russlands an und werden nicht mit deutschen Kollaborateuren und Handlangern verhandeln. In einem langatmigen Kommuniqué des 'Premierministers' von [FER.GetNameDef], [FER.GetSecondInCommand], fordert er stattdessen, dass Boldyrev General [FER.GetLeader] als obersten Herrscher des 'Freien Russlands' anerkennt, der vom sibirischen Volk und nicht von den Deutschen gewählt wurde."
+ russia_free_army_events.19.a: "Die Verhandlungen waren kurz."
+ russia_free_army_events.19.b: "Dann werden wir es mit Gewalt nehmen."
+
+ russia_free_army_events.20.t: "Vereinigung mit dem freien Russland" #Event wahrscheinlich nur für KI
+ russia_free_army_events.20.d: "Wie vereinbart, ist es an der Zeit, dass sich die sibirische Armee zurückzieht und sich wieder mit dem Rest Russlands vereint."
+ russia_free_army_events.20.a: "Vereint!"
+
+ russia_free_army_events.21.t: "Helden der Befreiung"
+ russia_free_army_events.21.d: "Die Spannungen zwischen den beiden Generälen und ihren Anhängern waren bei den Siegesfeierlichkeiten deutlich zu spüren. Die große Militärparade durch Moskau, die an jene von 1921 erinnerte, mit der die Befreiung Moskaus durch die Weißen gefeiert worden war, war von Anfang an von Kontroversen überschattet. Schon die Reihenfolge der Einheiten im Umzug war umstritten, da die meisten Menschen in Moskau kaum etwas über die Rolle Sibiriens im Krieg wissen. Es ist die Freie Russische Armee mit ihren weiß-blauen Fahnen und deutschen Panzern, die in diesem Teil Russlands bekannt ist – im Guten wie im Schlechten. Die rauen Truppen sibirischer Soldaten und Semjonows Kosaken scheinen nicht in die Moskauer Innenstadt zu passen.\n\nDoch trotzdem stehen die Generäle Boldyrev und Semyonov Seite an Seite und begrüßen ihre beiden Armeen bei einem großen Marsch durch die Hauptstraßen Moskaus. Insgeheim hält Boldyrev dies für verachtenswert und findet, dass Semyonov nicht auf diese Weise belohnt werden sollte – er sollte schon froh sein, seine militärische Herrschaft über den Fernen Osten behalten zu dürfen, doch nun wird er als Befreier Russlands verehrt, fast gleichgestellt mit Boldyrev."
+ russia_free_army_events.21.a: "Perhaps finally peace?"
+
+ russia_free_army_events.22.t: "Das Amur-Atamanat"
+ russia_free_army_events.22.d: "Grigori Semjonow scheint der größte Gewinner des letzten Krieges zu sein. Als Gegenleistung für seine Unterstützung der Sache der Freien Russen wurde er – nicht ohne Kontroversen – zum Befehlshaber des Fernöstlichen Militärbezirks ernannt, den er als eine Art quasi-feudales Belohnungssystem mit Getreuen besetzt hat. Am meisten Kritik hat jedoch seine Einmischung in die Politik auf sich gezogen.\n\nSemjonow ist dank der Goldminen, die er während seines Aufstands erobert hat, der reichste Mann im russischen Fernen Osten und hat sich zu einem wichtigen Förderer der DNPVS entwickelt, einer sibirischen Partei, die bei den Kommunalwahlen in Sibirien hervorragende Ergebnisse erzielt hat und derzeit die Regionalregierungen von Amur und Irkutsk stellt.\n\nVor kurzem hat der Ausschuss des Staatsrats Ermittlungen wegen Korruptionsvorwürfen gegen die DNPVS aufgenommen und behauptet, dass diese Semjonows finanzielle Unterstützung durch politische Gefälligkeiten 'zurückgezahlt' habe, was es vielen von Semjonows Offizieren ermöglicht habe, sich zu bereichern oder erfolgreiche politische Karrieren zu starten. Die Presse hat dies als 'Amur-Atamanat' bezeichnet, und die öffentlichen Forderungen nach Maßnahmen gegen Semjonows korruptes Verhalten nehmen zu. Dennoch genießt er in seinem eigenen Herrschaftsgebiet nach wie vor große Unterstützung als Mann, der Dinge in Gang bringt und den von Moskau im Stich gelassenen Sibiriern zuhört."
+ russia_free_army_events.22.a: "Das geht zu weit, entlassen Sie ihn aus der Armee und stellen Sie ihn vor Gericht, bis er nichts mehr hat."
+ russia_free_army_events.22.b: "Lassen wir den Duma-Ausschuss seine Arbeit machen, dafür gibt es ein ordentliches Gerichtsverfahren."
+ russia_free_army_events.22.c: "Er hat sich als Boldyrevs treuer Mann erwiesen, also gönnen wir ihm seine Belohnung."
+
+ russia_free_army_events.24.t: "Ein Ultimatum aus Moskau"
+ russia_free_army_events.24.d: "Wir haben heute eine unmissverständliche diplomatische Note aus Moskau erhalten. Der Inhalt ist klar: Die sibirischen Separatisten – womit wir gemeint sind – werden aufgefordert, sich zurückzuziehen und der russischen Armee – ihrer eigenen Armee – zu gestatten, die Ordnung in Sibirien wiederherzustellen. Das kam nicht völlig überraschend, da unsere Geheimdienste bereits Berichte über Truppenkonzentrationen an unserer Westgrenze erhalten hatten. Es sieht ganz so aus, als stünde eine Invasion bevor."
+ russia_free_army_events.24.a: "Nur über meine Leiche!"
+ russia_free_army_events.24.b: "Ich will nicht sterben..."
+
+ russia_free_army_events.30.t: "Unternehmensverträge"
+ russia_free_army_events.30.d: "Es ist nicht einfach, erstklassige Ausrüstung zu beschaffen, da die meisten Aufträge natürlich vorrangig an die Bundeswehr selbst vergeben werden. Dennoch ist es uns gelungen, sowohl veraltete Ausrüstung als auch einige neuere Aufträge zu erhalten, wenn auch in geringem Umfang. Glücklicherweise ist der deutsche Rüstungskomplex stark genug, um mehr als nur eine Armee zu versorgen."
+ russia_free_army_events.30.a: "Gut."
